@@ -1,0 +1,18 @@
+#import data (csv)in sql 
+LOAD DATA INFILE 'final.csv' 
+INTO TABLE discounts 
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+
+
+
+#import data(csv) in mongo
+
+ mongoimport -d AIbot -c geetadidi --type CSV --file /home/kkr/Downloads/bot.csv --headerline --maintainInsertionOrder
+ 
+ #export data from mongo
+ 
+ mongoexport -d AIbot -c final -f token --type=csv -o /home/kkr/to/file.csv
