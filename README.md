@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ruch-droid
-- 👀 I’m interested in ..Artificial Intelligence.
-- 🌱 I’m currently learning .ML..
-- 💞️ I’m looking to collaborate on Ml/AI projects
+- 👀 I’m interested in ..Artificial Intelligence,Machine learning, Big data , IOT
+- 🌱 I’m working as an AI/ML develper
+- 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me ...email: rajruchika1410@gmail.com
 
 <!---
